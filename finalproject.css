@@ -110,3 +110,11 @@ input[type=text], select, textarea {
     padding: 10px 10px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }  
+
+img{
+    border-radius: 8px;
+    padding: 5px;
+    width: 150px;
+    max-width: 100%;
+    height: auto;
+}
